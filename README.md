@@ -3,7 +3,7 @@
 ## Flujo de trabajo colaborativo en Git
 
 Para la entrega de las prácticas del curso se sigue el siguiente flujo de trabajo:
-* Inicio de la práctica -----> Creación del repositorio y ambiente de trabajo.
+* Inicio de la práctica --> Creación del repositorio y ambiente de trabajo.
 * **[ Git Pull ]** --> Actualizar el repositorio local desde GitHub
 * **[ Desarrollo ]** --> Resolver práctica en Google Colab / VS Code
 * **[ Git Add ]** --> Preparar los archivos modificados (`git add .`)
